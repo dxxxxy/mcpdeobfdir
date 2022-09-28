@@ -1,0 +1,10 @@
+{
+    "name": "mcpdeobfdir",
+    "version": "1.0.0",
+    "main": "app.js",
+    "author": "dxxxxy",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "csv-parser": "^3.0.0"
+    }
+}
