@@ -1,9 +1,19 @@
 {
-    "name": "mcpdeobfdir",
+    "name": "mcpdd",
     "version": "1.0.0",
+    "description": "MCP deobfuscator for directories",
     "main": "app.js",
+    "homepage": "https://github.com/DxxxxY/mcpdd",
+    "keywords": ["mcp", "deobf", "minecraft", "cli", "dir", "searge"],
     "author": "dxxxxy",
     "license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DxxxxY/mcpdd.git"
+    },
+    "bin": {
+        "mcpdd": "app.js"
+    },
     "dependencies": {
         "csv-parser": "^3.0.0"
     }
